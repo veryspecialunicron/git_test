@@ -1,0 +1,1 @@
+This is VerySpecialUnicorn's very first git project!
